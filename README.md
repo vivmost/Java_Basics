@@ -1,3 +1,3 @@
 # Java_Learning
 
-These are all my learning on core Java from apni kaksha. 
+These are all my learning in core Java from apni kaksha. 
